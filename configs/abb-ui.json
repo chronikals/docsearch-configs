@@ -9,7 +9,7 @@
   "selectors": {
     "lvl0": {
       "selector": "",
-      "default_value": "Documentation"
+      "default_value": "Search results"
     },
     "lvl1": ".container-fluid .col-md-10 h1",
     "lvl2": ".container-fluid .col-md-10 h2",
